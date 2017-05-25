@@ -1,0 +1,26 @@
+/* CSS v0.1 by djphil (CC-BY-NC-SA 4.0) */
+
+* {margin: 0px; padding: 0px;}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {padding-top: 50px; margin-bottom: 60px;}
+#calendar {width: 100%; margin-bottom: 20px;}
+
+.container .text-muted {margin: 20px 0;}
+
+.footer {
+  position: absolute;
+  bottom: 0px;
+  height: 60px;
+  background-color: #F5F5F5;
+}
+
+@keyframes fadein {
+   from {opacity: 0;}
+   to {opacity: 1;}
+}
+.content {animation: fadein 0.5s;}
