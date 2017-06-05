@@ -11,7 +11,7 @@
     Event calendar<br />
     <h3>Inworld:</h3>
     Event calendar (MOAP)<br />
-    <a class="btn btn-default btn-success btn-xs" href="./inc/calendar-inwlord.php" target="_blank">
+    <a class="btn btn-default btn-success btn-xs" href="./inc/calendar-inworld.php" target="_blank">
     <i class="glyphicon glyphicon-eye-open"></i> Demo</a>
 </article>
 
