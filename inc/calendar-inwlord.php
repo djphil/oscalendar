@@ -4,5 +4,5 @@
 <script src="../js/jquery.min.js"></script>
 <script src='../js/moment.min.js'></script>
 <script src='../js/eventcal.min.js'></script>
-<script src='../js/events.js'></script>
+<script src='../js/events-inworld.js'></script>
 <div id='calendar'></div>
