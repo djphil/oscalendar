@@ -30,7 +30,7 @@
     <h2>Install</h2>
     <?php echo $title; ?> have a "special" page for display calendar "inworld" (inc/calendar-inwlord.php)<br />
     You can add this url to a prim in order to use it as a "Media On A Prim" (MOAP).<br />
-    eg: http://domain.com/oscalendar/inc/calendar-inwlord.php
+    eg: http://domain.com/oscalendar/inc/calendar-inworld.php
 </article>
 
 <article id="AddEvents">
